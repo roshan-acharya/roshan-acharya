@@ -2,7 +2,6 @@
 <h3 align="center">A passionate a developer from Nepal</h3>
 
 - 🎓 Currently pursuing my studies in Computer Engineering.
-- - 🚀 Experienced in JavaScript, HTML, CSS, and React Native.
 - 💻 Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 - 🌱 Always eager to learn and explore new technologies.
 - 🌟 Love building innovative solutions that make a difference.
