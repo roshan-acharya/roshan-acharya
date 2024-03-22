@@ -9,8 +9,8 @@
 
 ## Let's Connect!
 Feel free to reach out to me:
-- 📧 Drop me a line  [HERE](mailto:ROSHANACHARYA908@GMAIL.COM)
-- 🐦 Tweet me at [your-twitter-handle](https://twitter.com/your-twitter-handle)
+- 📧 Drop me a line  [here](mailto:ROSHANACHARYA908@GMAIL.COM)
+- 🐦 Tweet me [here](https://twitter.com/roshanacharya40)
 - 📁 Check out my projects on [GitHub](https://github.com/roshan-acharya)
 
 Let's build something incredible together! 😊🚀
