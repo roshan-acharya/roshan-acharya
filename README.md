@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">A passionate a developer from Nepal</h3>
+
 
 - 🎓 Currently pursuing my studies in Computer Engineering.
 - 💻 Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js).
