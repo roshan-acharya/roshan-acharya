@@ -9,7 +9,7 @@
 
 ## Let's Connect!
 Feel free to reach out to me:
-- 📧 Drop me a line  [here](mailto:ROSHANACHARYA908@GMAIL.COM)
+- 📧 Drop me a line  [here](mailto:roshanacharya9808@gmail.com)
 - 🐦 Tweet me [here](https://twitter.com/roshanacharya40)
 - 📁 Check out my projects on [GitHub](https://github.com/roshan-acharya)
 
