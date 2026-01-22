@@ -2,7 +2,7 @@
 
 
 - 🎓 Currently pursuing my studies in Computer Engineering.
-- 💻 Proficient in the Data Science, AI/ML, DL, NLP
+- 💻 Proficient in the Data Science, AI/ML, DL, NLP, RL
 - 🌱 Always eager to learn and explore new technologies.
 - 🌟 Love building innovative solutions that make a difference.
 - 🎨 Enjoy collaborating with like-minded individuals to create impactful projects.
