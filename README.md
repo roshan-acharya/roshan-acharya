@@ -10,7 +10,7 @@
 ## Let's Connect!
 Feel free to reach out to me:
 - 📧 Drop me a line  [here](mailto:mail@roshanacharya.info.np)
-- 🐦 Tweet me [here](https://twitter.com/roshanacharya40)
+
 - 📁 Check out my projects on [GitHub](https://github.com/roshan-acharya)
 
 Let's build something incredible together! 😊🚀
