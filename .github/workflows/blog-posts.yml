@@ -1,34 +1,14 @@
-name: Update README with Blog Posts
-
+name: Latest blog articles
 on:
-  schedule:
-    - cron: '0 * * * *'   # every hour
-  workflow_dispatch:
-
+  schedule: 
+    - cron: '0 * * * *'
+  workflow_dispatch: 
 jobs:
-  update-readme:
+  update-readme-with-hashnode-blog:
+    name: Update README with the latest hashnode blog posts
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-
-    - name: Install Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.x"
-
-    - name: Install feedparser
-      run: pip install feedparser
-
-    - name: Fetch and update README
-      run: python scripts/update_readme.py
-
-    - name: Commit changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "chore: update blog posts"
-        git push
-      continue-on-error: true
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blog.roshanacharya.info.np/rss.xml"
