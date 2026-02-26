@@ -1,27 +1,24 @@
 name: Update README with Hashnode RSS
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:   # Allows manual refresh
+    - cron: '0 * * * *'
+  workflow_dispatch:   
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
-      - name: Feedo
-        uses: muesli/feedo@v1.0.0
+      - name: Fetch RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed: "https://blog.roshanacharya.info.np/rss.xml"
-          # Format: 🚀 Title (Feb 26, 2026)
-          template: "🚀 [{{ .Title }}]({{ .URL }}) ({{ .PublishedAt.Format \"Jan 02, 2006\" }})"
+          feed_list: "https://blog.roshanacharya.info.np/rss.xml"
+          max_post_count: 5
+        
+          template: "🚀 [$title]($url) ($date)"
+          date_format: "MMM DD, YYYY"
           
-      - name: Commit changes
-          # The Action will automatically push the update to your repo
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "chore: update latest blog posts" || exit 0
-          git push
+      
