@@ -17,5 +17,5 @@ Let's build something incredible together! 😊🚀
 
 ## 📝 Latest Blog Posts
 
-<!-- HASHNODE-POSTS:START -->
-<!-- HASHNODE-POSTS:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
