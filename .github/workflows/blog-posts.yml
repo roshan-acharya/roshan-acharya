@@ -1,14 +1,20 @@
-name: Latest blog articles
+name: Update Latest dev.to Posts
+
 on:
-  schedule: 
-    - cron: '0 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # runs daily at UTC 06:00
+
 jobs:
-  update-readme-with-hashnode-blog:
-    name: Update README with the latest hashnode blog posts
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Update README with dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.roshanacharya.info.np/rss.xml"
+          feed_list: "https://dev.to/feed/roshanacharya"
+          max_post_count: 5
