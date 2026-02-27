@@ -18,4 +18,6 @@ Let's build something incredible together! 😊🚀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merge Resolver: Automatic Git Conflict Resolution Using AI](https://dev.to/roshanacharya/merge-resolver-automatic-git-conflict-resolution-using-ai-16nl)
+- [Codify - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/roshanacharya/codify-mongodb-atlas-hackathon-2022-on-dev-3ke9)
 <!-- BLOG-POST-LIST:END -->
