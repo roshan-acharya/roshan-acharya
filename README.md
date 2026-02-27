@@ -17,5 +17,5 @@ Let's build something incredible together! 😊🚀
 
 ## 📝 Latest Blog Posts
 
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
