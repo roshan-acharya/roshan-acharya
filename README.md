@@ -27,6 +27,7 @@ I enjoy creating solutions that **help people, automate tasks, and make AI pract
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distillation Attacks : Risks and Controversies](https://dev.to/roshanacharya/distillation-attacks-risks-and-controversies-1iaf)
 - [Merge Resolver: Automatic Git Conflict Resolution Using AI](https://dev.to/roshanacharya/merge-resolver-automatic-git-conflict-resolution-using-ai-16nl)
 - [Codify - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/roshanacharya/codify-mongodb-atlas-hackathon-2022-on-dev-3ke9)
 <!-- BLOG-POST-LIST:END -->
