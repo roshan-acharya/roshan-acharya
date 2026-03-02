@@ -22,7 +22,7 @@ I enjoy creating solutions that **help people, automate tasks, and make AI pract
 - Portfolio: [roshanacharya.info.np](https://roshanacharya.info.np)  
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roshan-acharya)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
 
