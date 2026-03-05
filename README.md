@@ -4,7 +4,7 @@
 ### 💻 About Me
 I'm a **Data Science & AI/ML enthusiast** passionate about building real-world projects, exploring machine learning and AI.  
 
-I enjoy creating solutions that **help people, automate tasks, and make AI practical**.
+
 
 
 
