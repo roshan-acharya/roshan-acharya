@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshan</h1>
+<h1 align="center">Hi, I'm Roshan</h1>
 
 
 ### 💻 About Me
