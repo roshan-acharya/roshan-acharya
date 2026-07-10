@@ -11,7 +11,7 @@ I'm a **Data Science & AI/ML enthusiast** passionate about building real-world p
 ## 🛠️ Skills & Tools
 
 - **Programming:** Python, JavaScript
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, NLP  
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, NLP, Agents and LLM  
 - **Web & Apps:** React, Tailwind CSS, Django, Flask, FastAPI
 - **Tools:** Git, GitHub, Docker, VS Code, Kaggle  
 
